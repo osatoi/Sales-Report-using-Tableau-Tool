@@ -76,7 +76,7 @@ Future Improvements
 🔹 Add customer churn analysis to improve retention strategies.
 
 Repository Details:
-📌 Dashboard Link: Customer Analysis Tableau Dashboard
+--- Dashboard Link: https://public.tableau.com/app/profile/osatohanmwen.imade/viz/CustomerAnalysis_17410439106750/Dashboard1
 
 📌 Tools Used: Tableau, SQL, Excel
 
