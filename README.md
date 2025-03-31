@@ -46,14 +46,10 @@ To achieve these insights, the following steps were taken:
 
 
 This dashboard provides actionable insights for stakeholders by revealing:
-
-✅ High-value customers that contribute the most revenue.
-
-✅ Seasonal sales trends that help forecast future demand.
-
-✅ Top-performing products and regions for targeted marketing efforts.
-
-✅ Customer segmentation insights for personalized engagement strategies.
+ - High-value customers that contribute the most revenue.
+ - Seasonal sales trends that help forecast future demand
+ - Top-performing products and regions for targeted marketing efforts.
+ - Customer segmentation insights for personalized engagement strategies
 
 How to Use the Dashboard
 
@@ -65,18 +61,9 @@ How to Use the Dashboard
 
 4. Download & Share: Export insights for reporting and presentations.
 
-Future Improvements
-
-
-
-🔹 Enhance customer segmentation with RFM (Recency, Frequency, Monetary) analysis.
-
-🔹 Integrate predictive analytics to forecast future sales trends.
-
-🔹 Add customer churn analysis to improve retention strategies.
 
 Repository Details:
---- Dashboard Link: https://public.tableau.com/app/profile/osatohanmwen.imade/viz/CustomerAnalysis_17410439106750/Dashboard1
+ - Dashboard Link:[Tableau Public](https://public.tableau.com/app/profile/osatohanmwen.imade/viz/CustomerAnalysis_17410439106750/Dashboard1)
 
-📌 Tools Used: Tableau, SQL, Excel
+Tools Used: Tableau and  Excel
 
